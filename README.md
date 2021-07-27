@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+Eu sou o Pedro, um estudante de Ciencia da Computaçao na UNIFESP
+Atualmente programo em Python e C
+
+Meu linkedin: https://www.linkedin.com/in/pedro-henrique-cometti-lelis-b84bb3214/
+
+
 <!--
 **Pedrohclelis/pedrohclelis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
