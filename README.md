@@ -3,7 +3,9 @@
 Eu sou o Pedro, um estudante de Ciencia da Computaçao na UNIFESP
 Atualmente programo em Python e C
 
-Meu linkedin: https://www.linkedin.com/in/pedro-henrique-cometti-lelis-b84bb3214/
+**Minhas redes sociais:**
+*  Meus projetos abertos no [GitHub](https://github.com/Pedrohclelis)
+*  Meu perfil no [LinkedIn](https://www.linkedin.com/in/pedro-henrique-cometti-lelis-b84bb3214/)
 
 
 <!--
