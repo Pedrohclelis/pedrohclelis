@@ -8,7 +8,7 @@ Prazer, meu nome é Pedro, atualmente curso Ciência da Computação na UNIFESP 
 * Versionamento em Git e GitHub 🌎
 * Inglês Intermediário 🗣️
 
-**Minhas redes sociais:**
+**Redes sociais:**
 *  Meus projetos abertos no [GitHub](https://github.com/Pedrohclelis)
 *  Meu perfil no [LinkedIn](https://www.linkedin.com/in/pedro-henrique-cometti-lelis-b84bb3214/)
 
