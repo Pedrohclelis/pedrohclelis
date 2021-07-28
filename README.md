@@ -5,7 +5,7 @@ Prazer, meu nome é Pedro, atualmente curso Ciência da Computação na UNIFESP 
 **Habilidades:**
 * Conhecimento basico de Python 3 💻
 * Conhecimento basico da Linguagem C ⌨️
-* Versionamento com Git e GitHub 🌎
+* Versionamento em Git e GitHub 🌎
 * Inglês Intermediário 🗣️
 
 **Minhas redes sociais:**
