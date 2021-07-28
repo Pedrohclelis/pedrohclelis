@@ -1,7 +1,12 @@
-### Hi there 👋
+<h1 align="center"> Seja bem vindo ao meu GitHub 👋 </h1>
 
-Eu sou o Pedro, um estudante de Ciencia da Computaçao na UNIFESP
-Atualmente programo em Python e C
+Prazer, meu nome é Pedro, atualmente estudando Ciência da Computação na UNIFESP e autodidata em programação.
+
+**Habilidades:**
+* Conhecimento basico de Python 3 💻
+* Conhecimento basico da Linguagem C ⌨️
+* Git e GitHub 🌎
+* Inglês Intermediário 🗣️
 
 **Minhas redes sociais:**
 *  Meus projetos abertos no [GitHub](https://github.com/Pedrohclelis)
