@@ -1,6 +1,6 @@
 <h1 align="center"> Seja bem vindo ao meu GitHub 👋 </h1>
 
-Prazer, meu nome é Pedro, atualmente curso Ciência da Computação na UNIFESP e sou autodidata em programação.
+Oi, meu nome é Pedro, atualmente curso Ciência da Computação na UNIFESP e sou autodidata em programação.
 
 **Habilidades:**
 * Conhecimento basico de Python 3 💻
