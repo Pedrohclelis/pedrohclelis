@@ -1,8 +1,8 @@
-<h1 align="center"> Seja bem vindo ao meu GitHub 👋 </h1>
+<h1 align="center"> Welcome to my GitHub 👋 </h1>
 
-Olá, meu nome é Pedro, atualmente curso Ciência da Computação na UNIFESP e sou autodidata em programação.
+Hi, my name is Pedro, currently studying Computer Science at UNIFESP and I am self-taught in programming.
 
-**Habilidades:**
+**Skills:**
 * Conhecimento basico de Python 3 <img align="center" alt="Python" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
 * Conhecimento basico da Linguagem C <img align="center" alt="C" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg">
 * Versionamento em Git e GitHub <img align="center" alt="C" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"> 
