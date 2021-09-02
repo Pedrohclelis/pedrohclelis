@@ -25,7 +25,7 @@ Hi, my name is Pedro, currently studying Computer Science at UNIFESP while I tak
   
 #
  
-<div>
+<div align="center">
   <a href="https://github.com/pedrohclelis">
-  <img height="320em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedrohclelis&layout=compact&langs_count=7&theme=vue-dark"/>
+  <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedrohclelis&layout=compact&langs_count=7&theme=vue-dark"/>
 </div>
