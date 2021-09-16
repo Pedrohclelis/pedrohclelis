@@ -6,12 +6,17 @@ Hi, my name is Pedro, currently studying Computer Science at UNIFESP while I tak
 
 * Python <img align="center" alt="Python" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
 * C Language <img align="center" alt="C" height="35" width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg">
+* PHP <img align="center" alt="C" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg">
+* MySQL <img align="center" alt="C" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg">
   
 <h2>Front-end</h2>
 
 * HTML <img align="center" alt="C" height="35" width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
 * CSS <img align="center" alt="C" height="35" width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
- 
+* JavaScript <img align="center" alt="C" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
+* WordPress <img align="center" alt="C" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-plain.svg">
+* Node.js <img align="center" alt="C" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg">
+
 <h2>Extra</h2>
 
 * Code Versioning on Git and GitHub <img align="center" alt="C" height="35" width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"> 
