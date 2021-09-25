@@ -7,7 +7,7 @@ Hi, my name is Pedro, currently studying Computer Science at UNIFESP while I tak
 * Python <img align="center" alt="Python" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
 * C Language <img align="center" alt="C" height="35" width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg">
 * PHP <img align="center" alt="C" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg">
-* MySQL <img align="center" alt="C" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg">
+* MySQL <img align="center" alt="C" height="35" width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg">
   
 <h2>Front-end</h2>
 
