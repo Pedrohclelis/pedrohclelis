@@ -20,6 +20,7 @@ Hi, my name is Pedro, currently studying Computer Science at UNIFESP while I tak
 <h2>Extra</h2>
 
 * Code Versioning on Git and GitHub <img align="center" alt="C" height="35" width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"> <img align="center" alt="C" height="35" width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"> 
+* Unity <img align="center" alt="U" height="30" width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg">  
 * Media editing with Photoshop and Sony Vegas <img align="center" alt="C" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg">  <img align="center" alt="C" height="30" width="30" src="https://upload.wikimedia.org/wikipedia/commons/3/39/Vegas_Pro_15.0.png"> 
 * Intermediary English 🗣
 
